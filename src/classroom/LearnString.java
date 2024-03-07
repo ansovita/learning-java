@@ -25,8 +25,8 @@ public class LearnString {
 //        //Can save into variable
 //        String myFullName =
 
-//                // Hello, world!
-//                String hello = "Hello, ";
+//       // Hello, world!
+//        String hello = "Hello, ";
 //        String world = "world!";
 
 //        String helloWorld = hello.concat(world);

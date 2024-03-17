@@ -1,6 +1,6 @@
 package homework;
 
-public class MyHomeWork {
+public class MyFirstHomeWork {
     public static void main(String[] args) {
 
         //Variable: String

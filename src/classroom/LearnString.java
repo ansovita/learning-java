@@ -32,10 +32,18 @@ public class LearnString {
 //        String helloWorld = hello.concat(world);
 //        System.out.println(helloWorld);
 //
-//        String randomString = "some text";
-//        System.out.println(randomString.toUpperCase());
+        String randomString = "some text";
+        System.out.println(randomString.toUpperCase());
 
+        /*
+        if (условия) {
+        //Код выполняется, если условие верно
+        }
+        */
 
+        if (false){
+            System.out.println("This code is true");
+        }
 
     }
 }

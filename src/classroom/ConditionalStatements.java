@@ -40,20 +40,24 @@ public class ConditionalStatements {
         int age = 25;
         if (age <= 12) {
             System.out.println("This is child!");
-        } else if (age >= 13 && age <= 19) {
+        }
+        else if (age >= 13 && age <= 19) {
             System.out.println("This is teenager");
-        } else if (age >= 20 && age <= 59) {
+        }
+        else if (age >= 20 && age <= 59) {
             System.out.println("This is adult");
-        } else {
+        }
+        else {
             System.out.println("This is senior");
         }
-
         int number = 10;
         if (number == 0) {
             System.out.println("The number is equal 0");
-        } else if (number < 0) {
+        }
+        else if (number < 0) {
             System.out.println("The number is negative");
-        } else if (number >= 0) {
+        }
+        else if (number >= 0) {
             System.out.println("The number is positive");
         }
 
